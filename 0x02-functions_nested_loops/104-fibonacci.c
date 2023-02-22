@@ -2,7 +2,7 @@
 
 
 	/**
-	 * main - fibonacci <3
+	 * main - a program that finds and prints the first 98 Fibonacci numbers <3
 	 *
 	 * Purpose - no hardcode
 	 *
